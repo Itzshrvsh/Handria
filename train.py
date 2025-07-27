@@ -13,10 +13,10 @@ print("Using:", device)
 
 # Hyperparams
 latent_dim = 100
-num_classes = 68  # A-Z
+num_classes = 62  # A-Z
 image_size = 28
-batch_size =64
-epochs = 6000
+batch_size = 64
+epochs = 20000
 lr = 0.0002
 
 # Data
